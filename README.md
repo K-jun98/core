@@ -6,10 +6,10 @@
 
 ### [스프링 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard) 강의 내용을 정리 합니다.
 ## 회원 클래스 다이어그램
-<img src = "../../Desktop/스크린샷 2022-08-25 오전 1.01.36.png" width = "600" height = "300">
+<img src = "https://user-images.githubusercontent.com/101342145/186468060-ed5c15f7-185c-4577-9d46-0fb6009e81c7.png" width = "600" height = "300">
 
 ## 주문 도메인 클래스 다이어그램
-<img src = "../../Desktop/스크린샷 2022-08-25 오전 1.01.36.png" width = "700" height = "450">
+<img src = "https://user-images.githubusercontent.com/101342145/186467842-0e367618-15d7-4178-bf92-b870bc1aff38.png" width = "700" height = "450">
 
 
 ## 수강 기록
