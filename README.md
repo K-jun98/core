@@ -9,7 +9,7 @@
 <img src = "https://user-images.githubusercontent.com/101342145/186468060-ed5c15f7-185c-4577-9d46-0fb6009e81c7.png" width = "600" height = "300">
 
 ## 주문 도메인 클래스 다이어그램
-<img src = "https://user-images.githubusercontent.com/101342145/186467842-0e367618-15d7-4178-bf92-b870bc1aff38.png" width = "700" height = "450">
+<img src = "https://user-images.githubusercontent.com/101342145/186470245-33ffb17c-0932-4aeb-9d70-767e0f60e28e.png" width = "700" height = "450">
 
 
 ## 수강 기록
