@@ -13,9 +13,10 @@
 
 
 ## 수강 기록
-| Section                           |                                           Commit                                           |
-|:----------------------------------|:------------------------------------------------------------------------------------------:|
-| - **프로젝트 생성** 22/08/24            | [976dce0](https://github.com/K-jun98/core/commit/976dce0f25cb3a8e0c25769a1611134c478bcc1a) |
-| - **회원 도메인 개발** 22/08/24          | [b79fecb](https://github.com/K-jun98/core/commit/b79fecbde4986ff9c5dc06eb1e2700b0bcfcf41e) |
-| - **회원 도메인 테스트 코드** 22/08/24      |[9e4e440](https://github.com/K-jun98/core/commit/9e4e4407592fad949f44cf53844e37568046669a) |
-| - **주문과 할인 도메인 개발** 22/08/24      |[495b821](https://github.com/K-jun98/core/commit/495b8213c108d0656f00a16952ce38a69383c763) |
+| Section                       |                                           Commit                                           |
+|:------------------------------|:------------------------------------------------------------------------------------------:|
+| - **프로젝트 생성** 22/08/24        | [976dce0](https://github.com/K-jun98/core/commit/976dce0f25cb3a8e0c25769a1611134c478bcc1a) |
+| - **회원 도메인 개발** 22/08/24      | [b79fecb](https://github.com/K-jun98/core/commit/b79fecbde4986ff9c5dc06eb1e2700b0bcfcf41e) |
+| - **회원 도메인 테스트 코드** 22/08/24  |[9e4e440](https://github.com/K-jun98/core/commit/9e4e4407592fad949f44cf53844e37568046669a) |
+| - **주문과 할인 도메인 개발** 22/08/24  |[495b821](https://github.com/K-jun98/core/commit/495b8213c108d0656f00a16952ce38a69383c763) |
+| - **주문과 할인 도메인 테스트** 22/08/25 |[07fc955](https://github.com/K-jun98/core/commit/07fc955588bfd1646200e68e45c471ad53b483da) |
