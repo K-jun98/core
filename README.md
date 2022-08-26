@@ -20,5 +20,6 @@
 | - **회원 도메인 테스트 코드** 22/08/24  |[9e4e440](https://github.com/K-jun98/core/commit/9e4e4407592fad949f44cf53844e37568046669a) |
 | - **주문과 할인 도메인 개발** 22/08/24  |[495b821](https://github.com/K-jun98/core/commit/495b8213c108d0656f00a16952ce38a69383c763) |
 | - **주문과 할인 도메인 테스트** 22/08/25 |[07fc955](https://github.com/K-jun98/core/commit/07fc955588bfd1646200e68e45c471ad53b483da) |
-| - **새로운 할인 정책 개발** 22/08/25 |[8c18ce1](https://github.com/K-jun98/core/commit/8c18ce1c2d2e278d63174added32a53126cac049) |
-| - **관심사의 분리** 22/08/25 |[a421c12](https://github.com/K-jun98/core/commit/a421c1279dacea8bf31b29f68b636757dbfaf7ea) |
+| - **새로운 할인 정책 개발** 22/08/25   |[8c18ce1](https://github.com/K-jun98/core/commit/8c18ce1c2d2e278d63174added32a53126cac049) |
+| - **관심사의 분리** 22/08/26        |[a421c12](https://github.com/K-jun98/core/commit/a421c1279dacea8bf31b29f68b636757dbfaf7ea) |
+| - **AppConfig 리팩터링** 22/08/27 |[52b0f07](https://github.com/K-jun98/core/commit/52b0f078c0100c8ea6656577ce5a48daaccd17f4) |
