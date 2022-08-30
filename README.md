@@ -26,3 +26,5 @@
 | - **컨테이너에 등록된 모든 빈 조회** 22/08/28       |[d0b9db1](https://github.com/K-jun98/core/commit/d0b9db17fe367c35e46a76ef22344db1db662483) |
 | - **스프링 빈 조회 - 기본** 22/08/28           |[e628e26](https://github.com/K-jun98/core/commit/e628e26ae54c84368bcb342248c6b73c11a18c29) |
 | - **스프링 빈 조회 - 동일한 타입이 둘 이상** 22/08/28 |[14aecc8](https://github.com/K-jun98/core/commit/14aecc83ea9ddea9def62ecd08a3b9356d61faad) |
+| - **스프링 빈 조회 - 상속 관계** 22/08/28        |[82ef599](https://github.com/K-jun98/core/commit/82ef599335a55e07e31527ec21e73f8b468452b7) |
+| - **웹 애플리케이션과 싱글톤** 22/08/29        |[c7fa5bf](https://github.com/K-jun98/core/commit/c7fa5bf025bb242ad263b053f60f2d7b5fd3f9f1) |
